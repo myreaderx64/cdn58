@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <title>株式会社リクルート</title>
+  <meta name="description" content="株式会社リクルートの事業・サービスの紹介、ニュースリリース等の情報サイトです。一人ひとりに「まだ、ここにない、出会い。」を提供していきます。">
+  <meta name="keywords" content="株式会社リクルート,Recruit,サービス,企業情報,サステナビリティ,採用情報">
+
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.recruit.co.jp/">
+  <meta property="og:title" content="株式会社リクルート">
+  <meta property="og:image" content="https://www.recruit.co.jp/ogp.png">
+  <meta property="og:description" content="株式会社リクルートの事業・サービスの紹介、ニュースリリース等の情報サイトです。一人ひとりに「まだ、ここにない、出会い。」を提供していきます。">
+
+  <meta name="twitter:url" content="https://www.recruit.co.jp/">
+  <meta name="twitter:title" content="株式会社リクルート">
+  <meta name="twitter:description" content="株式会社リクルートの事業・サービスの紹介、ニュースリリース等の情報サイトです。一人ひとりに「まだ、ここにない、出会い。」を提供していきます。">
+  <meta name="twitter:image" content="https://www.recruit.co.jp/ogp.png">
+
+  <link rel="canonical" href="https://www.recruit.co.jp/">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="copyright" content="株式会社リクルート">
+<meta property="og:site_name" content="(c) Recruit Co., Ltd.">
+<meta name="twitter:card" content="summary">
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css">
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+
+<link rel="stylesheet" href="/assets/css/style.css">
+<script src="/assets/js/ga.js"></script>
+
+  <link rel="stylesheet" href="/assets/css/top.css">
+
+  </head>
+  <body class="page-top">
+
+<header class="header">
+  <div class="header__inner">
+    <div class="official-link">
+      <a href="https://recruit-holdings.co.jp/" target="_blank" class="official-link">リクルートホールディングスのサイトはこちら</a>
+    </div>
+    <input type="checkbox" id="menu-state" class="menu-state">
+    <div class="header__logo">
+      <a href="/"></a>
+    </div>
+    <label class="menu" for="menu-state">
+      <span class="menu__line"></span>
+      <span class="menu__line"></span>
+      <span class="menu__line"></span>
+    </label>
+    <nav class="navigation">
+      <div class="navigation__inner">
+        <ul class="global-navigation">
+          <li class="global-navigation__has-child global-navigation__has-child--service">
+            <a href="/service/" class="js-navigation-open">サービス<span class="global-navigation__toggle-item"></span></a>
+            <ul class="global-navigation__child">
+              <li class="sp">
+                <a href="/service/">サービスを見る</a>
+              </li>
+              <li>
+                <a href="/service/graduate/">新卒採用メディア</a>
+              </li>
+              <li>
+                <a href="/service/mid-career/">中途採用メディア</a>
+              </li>
+              <li>
+                <a href="/service/recruitment/">就職・採用・労務支援</a>
+              </li>
+              <li>
+                <a href="/service/agent/">HRエージェント</a>
+              </li>
+              <li>
+                <a href="/service/part-time-job/">アルバイト・パート</a>
+              </li>
+              <li>
+                <a href="/service/housing/">住まい</a>
+              </li>
+              <li>
+                <a href="/service/marriage/">マリッジ＆ファミリー</a>
+              </li>
+              <li>
+                <a href="/service/car/">自動車</a>
+              </li>
+              <li>
+                <a href="/service/course/">進路</a>
+              </li>
+              <li>
+                <a href="/service/education/">学習</a>
+              </li>
+              <li>
+                <a href="/service/travel/">旅行</a>
+              </li>
+              <li>
+                <a href="/service/gourmet/">飲食</a>
+              </li>
+              <li>
+                <a href="/service/beauty/">ビューティー</a>
+              </li>
+              <li>
+                <a href="/service/air/">業務・経営支援</a>
+              </li>
+              <li>
+                <a href="/service/rd/">新規事業・R&D その他</a>
+              </li>
+              <li>
+                <a href="/service/souken/">総研</a>
+              </li>
+            </ul>
+          </li>
+          <li class="global-navigation__has-child global-navigation__has-child--company">
+            <a href="/company/" class="js-navigation-open">株式会社リクルートについて<span class="global-navigation__toggle-item"></span></a>
+            <ul class="global-navigation__child">
+              <li class="sp">
+                <a href="/company/">株式会社リクルートについてを見る</a>
+              </li>
+              <li>
+                <a href="/company/philosophy/">経営理念</a>
+              </li>
+              <li>
+                <a href="/company/profile/">会社概要</a>
+              </li>
+              <li>
+                <a href="/company/office/">事業所一覧</a>
+              </li>
+              <li>
+                <a href="/company/group/">グループ企業一覧</a>
+              </li>
+              <li>
+                <a href="/company/leadership/">役員一覧</a>
+              </li>
+              <li>
+                <a href="/company/message/">社長メッセージ</a>
+              </li>
+              <li>
+                <a href="/company/history/">沿革・歴史</a>
+              </li>
+              <li>
+                <a href="/company/involvement/">リクルートブランド</a>
+              </li>
+            </ul>
+          </li>
+          <li class="global-navigation__has-child global-navigation__has-child--talks">
+            <a href="/talks/" class="js-navigation-open">Talks<span class="global-navigation__toggle-item"></span></a>
+            <ul class="global-navigation__child">
+              <li class="sp">
+                <a href="/talks/">Talksを見る</a>
+              </li>
+              <li>
+                <a href="/talks/meet_recruit/">Meet Recruit</a>
+              </li>
+              <li>
+                <a href="/talks/recruit_voice/">Recruit Voice</a>
+              </li>
+            </ul>
+          </li>
+          <li class="global-navigation__has-child global-navigation__has-child--sustainability">
+            <a href="/sustainability/" class="js-navigation-open">サステナビリティ<span class="global-navigation__toggle-item"></span></a>
+            <ul class="global-navigation__child">
+              <li class="sp">
+                <a href="/sustainability/">サステナビリティを見る</a>
+              </li>
+              <li>
+                <a href="/sustainability/approach/">方針</a>
+              </li>
+              <li>
+                <a href="/sustainability/activity/">5つの重点テーマに関する活動</a>
+              </li>
+              <li>
+                <a href="/sustainability/activity/social_contribution/">事業を通じた社会貢献活動</a>
+              </li>
+              <li>
+                <a href="/sustainability/data/">データ</a>
+              </li>
+              <li>
+                <a href="/sustainability/governance/">ガバナンス</a>
+              </li>
+            </ul>
+          </li>
+          <li><a href="/employment/">採用情報</a></li>
+          <li class="global-navigation__has-child global-navigation__has-child--newsroom">
+            <a href="/newsroom/" class="js-navigation-open">News Room<span class="global-navigation__toggle-item"></span></a>
+            <ul class="global-navigation__child">
+              <li class="sp">
+                <a href="/newsroom/">News Roomを見る</a>
+              </li>
+              <li>
+                <a href="/newsroom/pressrelease/">プレスリリース一覧</a>
+              </li>
+              <li>
+                <a href="/newsroom/notification/">お知らせ一覧</a>
+              </li>
+              <li>
+                <a href="/newsroom/data/">調査・データ一覧</a>
+              </li>
+            </ul>
+          </li>
+          <li class="global-navigation__has-child global-navigation__has-child--contact">
+            <a href="/contact/" class="js-navigation-open">お問い合わせ<span class="global-navigation__toggle-item"></span></a>
+            <ul class="global-navigation__child">
+              <li class="sp">
+                <a href="/contact/">お問い合わせを見る</a>
+              </li>
+              <li>
+                <a href="https://corpinquiry.recruit.co.jp/s/article/000015433" target="_blank">商品・サービス・総研に関するお問い合わせ</a>
+              </li>
+              <li>
+                <a href="https://help.point.recruit.co.jp/s/" target="_blank">リクルートIDに関するお問い合わせ</a>
+              </li>
+              <li>
+                <a href="https://faq-privacy.recruit.co.jp/s/ask" target="_blank">ユーザーの皆さまのデータやプライバシーに関するお問い合わせ</a>
+              </li>
+              <li>
+                <a href="https://help.recruit.jp/app/ask_rhd?values=1" target="_blank">企業活動やガバナンスに関するお問い合わせ</a>
+              </li>
+              <li>
+                <a href="https://form.kintoneapp.com/public/form/show/ea93c903a7d476fa0780ee8b53ab61f171be0b3653ddaea853a0e7aabae73301" target="_blank">報道関連・マスメディアの方へ</a>
+              </li>
+            </ul>
+          </li>
+          <li class="sp"><a href="https://recruit-holdings.co.jp/" target="_blank">リクルートホールディングスのサイトはこちら</a></li>
+        </ul>
+        <div class="navigation__search pc"><span><img src="/assets/img/common/icon_search.svg" alt="検索"></span></div>
+        <div class="navigation__search-box">
+          <div class="navigation__search-box__container">
+            <form action="/search.html" method="get" class="search" id="SS_searchForm">
+              <input type="text" class="navigation__search-box__input" name="query" id="SS_searchQuery">
+              <input type="hidden" name="category" value="6">
+              <button class="navigation__search-box__submit">
+                <img src="/assets/img/common/icon_search_w.svg" alt="">
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+
+    <main class="content">
+
+      <section class="top-kv">
+        <div class="content-inner inner">
+          <h1 class="top-kv__heading">Services</h1>
+          <h1 class="top-kv__description">
+            まだ出会ったことのない情報を、<br class="sp">より早く、より近くに届けるために<br>
+            株式会社リクルートは人と情報をつなぐ<br class="sp">メディア＆ソリューションカンパニーです。
+          </h1>
+          <a href="/service/" class="basic-btn basic-btn--blue basic-btn--arrow"><span class="basic-btn__inner">サービスを見る</span></a>
+        </div>
+        <div class="top-kv__banner" dir="rtl">
+          <a href="https://www.recruit-jinji.jp/" target="_blank">
+            <img src="/assets/img/top/1st_RECRUIT_bnr_800x236_a.png" alt="">
+          </a>
+          <a href="https://recruit-saiyo.jp/" target="_blank">
+            <img src="/assets/img/top/1st_RECRUIT_bnr_800x236_b.png" alt="">
+          </a>
+        </div>
+        <div class="top-kv__logo logo-jyaran">
+          <img src="/assets/img/top/logo_jyaran.png" alt="">
+        </div>
+        <div class="top-kv__logo logo-rikunavi">
+          <img src="/assets/img/top/logo_rikunavi.png" alt="">
+        </div>
+        <div class="top-kv__logo logo-froma">
+          <img src="/assets/img/top/logo_froma.png" alt="">
+        </div>
+        <div class="top-kv__logo logo-studysupple">
+          <img src="/assets/img/top/logo_studysupple.png" alt="">
+        </div>
+        <div class="top-kv__logo logo-airpay">
+          <img src="/assets/img/top/logo_airpay.png" alt="">
+        </div>
+        <div class="top-kv__logo logo-townwork">
+          <img src="/assets/img/top/logo_townwork.png" alt="">
+        </div>
+        <div class="top-kv__logo logo-suumo">
+          <img src="/assets/img/top/logo_suumo.png" alt="">
+        </div>
+      </section>
+
+      <section class="top-media">
+        <div class="content-inner inner">
+          <h2 class="section-heading">Talks<span>トークス</span></h2>
+          <div class="flex-item">
+            <a href="/talks/" class="flex-item__link arrow-btn">一覧へ</a>
+            <p class="top-media__lead flex-item__description">リクルートのVision（目指す世界観）、Mission（果たす役割）、Values（大切にする価値観）を体現する取り組みや人、アイデアを発信。<br class="pc">リクルートが注目する社会のトレンドやアイデアも更新していきます。</p>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+          <div class="top-media__container">
+
+  
+    <a class="top-media__box top-media__box--meet" href="/talks/meet_recruit/2021/03/kimono-yamato.html">
+    <h3 class="top-media__heading sp">Meet Recruit</h3>
+    
+      <figure class="top-media__figure">
+        <img src="/talks/meet_recruit/assets/kimono-yamato_main_common.jpg" alt="kimono-yamato_main_common">
+      </figure>
+    
+    <div class="top-media__wrap">
+      <h3 class="top-media__heading pc">Meet Recruit</h3>
+      <p class="top-media__description">伝統や文化を言い訳にしてはいけない。老舗きもの店4代目が挑む、きもの産業の未来</p>
+      <time datetime="2021-03-29" class="top-media__date">‘2021.03.29 MON</time>
+    </div>
+    <span class="top-media__arrow"></span>
+  </a>
+
+
+  
+    <a class="top-media__box top-media__box--inside" href="/talks/recruit_voice/2021/01/zexy-hpbeautyacademy.html">
+    <h3 class="top-media__heading sp">Recruit Voice</h3>
+    
+      <figure class="top-media__figure">
+        <img src="/talks/recruit_voice/assets/zexy-hpbeautyacademy_main_common.jpg" alt="「多様性」はサービスの形をどう変える？ゼクシィ×ホットペッパービューティー対談">
+      </figure>
+    
+    <div class="top-media__wrap">
+      <h3 class="top-media__heading pc">Recruit Voice</h3>
+      <p class="top-media__description">「多様性」はサービスの形をどう変える？ゼクシィ×ホットペッパービューティー対談</p>
+      <time datetime="2021-01-22" class="top-media__date">‘2021.01.22 FRI</time>
+    </div>
+    <span class="top-media__arrow"></span>
+  </a>
+
+          </div>
+        </div>
+      </section>
+
+      <!-- <section class="top-words">
+        <div class="top-words__box">
+          <div class="top-words__box--left">
+            <h2 class="top-words__headig">#Hot-words</h2>
+            <p class="top-words__description">私たちが、いま注目するホットワードをお届けします。</p>
+            <a href="" class="top-words__link arrow-btn">TOP20 を見る</a>
+          </div>
+          <div class="top-words__box--center">
+            <img src="/assets/img/top/words-number.png" alt="">
+            <p class="top-words__annotation">※2020年12月現在</p>
+          </div>
+          <div class="top-words__box--right">
+            <ul class="top-words__tags">
+              <li>#<span>イノベーション</span></li>
+              <li>#<span>グローバル</span></li>
+              <li>#<span>テクノロジー</span></li>
+              <li>#<span>働き方</span></li>
+              <li>#<span>多様性</span></li>
+            </ul>
+          </div>
+        </div>
+      </section> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+      <section class="top-notice">
+        <div class="content-inner inner">
+          <div class="top-notice__release">
+            <h2 class="top-notice__heading section-heading">Press release<span>プレスリリース</span></h2>
+            <div class="flex-item">
+              <a href="/newsroom/pressrelease/" class="flex-item__link arrow-btn">一覧へ</a>
+              <ul class="flex-item__list notice-list">
+
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/pressrelease/2021/0401_7213.html">
+      <time datetime="2021-04-01" class="notice-list__date">‘21.04.01 THU</time>
+      <p class="notice-list__label">学習</p>
+      <p class="notice-list__title">『スタディサプリ 中学講座』が大幅リニューアル スライドを用いたプロ講師による1回5分の授業動画</p>
+    </a>
+  </li>
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/recruit-sumai/press/2021/03/-4.html">
+      <time datetime="2021-03-30" class="notice-list__date">‘21.03.30 TUE</time>
+      <p class="notice-list__label">住まい</p>
+      <p class="notice-list__title">住宅購入の無料相談サービス『スーモカウンター』 4月に兵庫、広島、愛知の新規３店舗オープン</p>
+    </a>
+  </li>
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/recruit-mp/news/release/2021/0330_3973.html">
+      <time datetime="2021-03-30" class="notice-list__date">‘21.03.30 TUE</time>
+      <p class="notice-list__label">学習</p>
+      <p class="notice-list__title">学校向け『スタディサプリ』のテスト教材がパワーアップWEB上で配信・回答ができる「単元テスト」新登場</p>
+    </a>
+  </li>
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/recruit-lifestyle/news/gourmet/nw30169_20210330">
+      <time datetime="2021-03-30" class="notice-list__date">‘21.03.30 TUE</time>
+      <p class="notice-list__label">飲食</p>
+      <p class="notice-list__title">外食市場調査2021年2月度</p>
+    </a>
+  </li>
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/recruit-mp/news/release/2021/0329_3972.html">
+      <time datetime="2021-03-29" class="notice-list__date">‘21.03.29 MON</time>
+      <p class="notice-list__label">学習</p>
+      <p class="notice-list__title">『スタディサプリ ENGLISH』授業や家庭でも楽しく学習でき、より"使える英語"が身につく新サービス学校向け「中高生英会話コース」提供開始</p>
+    </a>
+  </li>
+
+
+              </ul>
+            </div>
+          </div>
+          <div class="top-notice__information">
+            <h2 class="top-notice__heading section-heading">Information<span>お知らせ</span></h2>
+            <div class="flex-item">
+              
+              <ul class="flex-item__list notice-list">
+
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/notification/2019/0304_7234.html">
+      <time datetime="2019-03-04" class="notice-list__date">‘19.03.04 MON</time>
+      
+      <p class="notice-list__title">当社グループを名乗る架空請求メールにご注意ください</p>
+    </a>
+  </li>
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/notification/2013/1111_7235.html">
+      <time datetime="2013-11-11" class="notice-list__date">‘13.11.11 MON</time>
+      
+      <p class="notice-list__title">リクルートを連想させる迷惑メールに関するご注意</p>
+    </a>
+  </li>
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/notification/2012/1026_7236.html">
+      <time datetime="2012-10-26" class="notice-list__date">‘12.10.26 FRI</time>
+      
+      <p class="notice-list__title">「リクナビ」「リクナビNEXT」を名乗るメールに関するご注意</p>
+    </a>
+  </li>
+
+  
+    
+    
+    
+  
+  <li>
+    <a href="/newsroom/notification/2012/1001_7237.html">
+      <time datetime="2012-10-01" class="notice-list__date">‘12.10.01 MON</time>
+      
+      <p class="notice-list__title">「株式会社タウンワーク」と名乗るメール・電話に関するご注意</p>
+    </a>
+  </li>
+
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="top-banner">
+        <div class="content-inner inner">
+          <ul class="top-banner__list">
+            <li>
+              <a href="https://recruit-2020.tokyo/?vos=0303cps02001" target="_blank">
+                <img src="/assets/img/top/banner_oripara0305.jpg" alt="">
+              </a>
+            </li>
+            <li>
+              <a href="/company/involvement/korekara/" target="_blank">
+                <img src="/assets/img/top/korekara_banner.jpg" alt="">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="top-relation">
+        <div class="content-inner inner">
+          <div class="top-relation__container">
+            <div class="top-relation__title">
+              <img src="/assets/img/common/logo_recrut-holdings.png" alt="">
+              <p class="top-relation__description">リクルートホールディングスの情報は<br class="pc"><a href="https://recruit-holdings.co.jp/" target="_blank">こちら</a>をご覧ください</p>
+            </div>
+            <ul class="top-relation__list">
+              <li>
+                <a href="https://recruit-holdings.co.jp/ir/" target="_blank">
+                  <div class="top-relation__figure">
+                    <img src="/assets/img/top/relation_banner01.jpg" alt="">
+                  </div>
+                  <p><span>IR情報</span></p>
+                </a>
+              </li>
+              <li>
+                <a href="https://recruit-holdings.co.jp/who/message/" target="_blank">
+                  <div class="top-relation__figure">
+                    <img src="/assets/img/top/relation_banner02.jpg" alt="">
+                  </div>
+                  <p><span>CEOメッセージ</span></p>
+                </a>
+              </li>
+              <li>
+                <a href="https://recruit-holdings.co.jp/what/" target="_blank">
+                  <div class="top-relation__figure">
+                    <img src="/assets/img/top/relation_banner03.jpg" alt="">
+                  </div>
+                  <p><span>リクルートグループについて</span></p>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <div class="canvas-animation">
+        <canvas id="canvas"></canvas>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/100/three.min.js"></script>
+        <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/127738/THREE.MeshLine.js"></script>
+        <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/127738/Maf.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+        <script>
+"use strict";
+
+function _instanceof(left, right) { if (right != null && typeof Symbol !== "undefined" && right[Symbol.hasInstance]) { return !!right[Symbol.hasInstance](left); } else { return left instanceof right; } }
+
+function _classCallCheck(instance, Constructor) { if (!_instanceof(instance, Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+console.clear();
+var canvas = document.querySelector('canvas');
+var renderer = new THREE.WebGLRenderer({
+  canvas: canvas,
+  antialias: true
+});
+renderer.setPixelRatio(window.devicePixelRatio);
+renderer.setClearColor(0xffffff);
+var scene = new THREE.Scene();
+var mouse = new THREE.Vector2();
+var camera = new THREE.PerspectiveCamera(46, canvas.clientWidth / canvas.clientWidth, 1, 1000);
+camera.position.z = 160;
+var colors = [0xee7d25, 0x2696d7, 0xffdc63, 0xd4e32c, 0xe2caca, 0xb4e5c4, 0xde1f8f, 0x9762ab, 0xf5ce5f];
+
+var SmoothLine = /*#__PURE__*/function () {
+  function SmoothLine() {
+    _classCallCheck(this, SmoothLine);
+
+    this.offset = 10;
+    this.width = 3 + Math.random() * 2.5;
+    var colorIndex = Math.floor(Math.random() * colors.length);
+    this.color = new THREE.Color(colors[colorIndex]);
+    this.scale = 100;
+    this.speed = Math.random() * 0.002 + 0.001;
+    this.diameter = 60;
+    this.opacity = Math.random() * 0.8 + 1;
+    this.createLine();
+  }
+
+  _createClass(SmoothLine, [{
+    key: "createLine",
+    value: function createLine() {
+      var nbrOfPoints = 500;
+      var geometry = new THREE.Geometry();
+      var offsetZ = Math.random() * 2.6;
+
+      for (var i = 0; i < nbrOfPoints; i++) {
+        var ratio = i / nbrOfPoints * Math.PI * 1.4 + Math.PI / 1.1;
+        var d = this.diameter;
+        var x = d * (Math.cos(ratio + Math.cos(ratio / 3)) * (1.9 - Math.sin(ratio))) / (.4 + Math.pow(Math.sin(ratio), 2));
+        var y = d * (Math.cos(ratio + Math.cos(ratio / 5)) * (.8 + Math.sin(ratio))) / (.4 + Math.pow(Math.sin(ratio), 2));
+        var z = Math.sin(ratio + offsetZ) * 106;
+        geometry.vertices.push(new THREE.Vector3(x, y, z));
+      }
+
+      geometry.vertices.push(geometry.vertices[0]);
+      this.line = new MeshLine();
+      this.line.setGeometry(new THREE.Geometry().setFromPoints(new THREE.CatmullRomCurve3(geometry.vertices).getPoints(170)), function (p) {
+        return 1 * Maf.parabola(p, 3);
+      });
+      var material = new MeshLineMaterial({
+        lineWidth: this.width,
+        color: this.color,
+        transparent: true,
+        opacity: this.opacity,
+        depthTest: false,
+        dashArray: 0.6,
+        dashRatio: 0.1,
+        dashOffset: Math.random()
+      });
+      this.mesh = new THREE.Mesh(this.line.geometry, material);
+      this.mesh.position.x = 1;
+      this.mesh.position.y = 1;
+      this.mesh.position.z = 10;
+      this.mesh.rotation.z = 3.3;
+      scene.add(this.mesh);
+    }
+  }, {
+    key: "update",
+    value: function update() {
+      this.mesh.material.uniforms.dashOffset.value += this.speed;
+    }
+  }]);
+
+  return SmoothLine;
+}();
+
+var lines = [];
+
+for (var i = 0; i < 14; i++) {
+  lines.push(new SmoothLine());
+}
+
+var center = new THREE.Vector3(10, 20, -300);
+
+function render() {
+  requestAnimationFrame(render);
+  lines.forEach(function (line) {
+    line.update();
+  });
+  camera.position.x = mouse.x * 2;
+  camera.position.y = mouse.y * 1;
+  camera.lookAt(center);
+  renderer.render(scene, camera);
+}
+
+function onMouseMove(e) {
+  var x = e.clientX / (window.innerWidth * 0.5) + 5;
+  var y = -1 * (e.clientY / (window.innerHeight * 0.5)) + 5;
+  updateMouse(x, y);
+}
+
+function onTouchMove(e) {
+  var x = e.touches[0].clientX / (window.innerWidth * 0.5) - 1;
+  var y = -1 * (e.touches[0].clientY / (window.innerHeight * 0.5)) + 1;
+  updateMouse(x, y);
+}
+
+function updateMouse(x, y) {
+  TweenMax.to(mouse, 1, {
+    x: x,
+    y: y,
+    ease: Power1.easeOut
+  });
+}
+
+function onResize() {
+  renderer.setSize(canvas.clientWidth, canvas.clientHeight, false);
+  camera.aspect = canvas.clientWidth / canvas.clientHeight;
+  camera.updateProjectionMatrix();
+}
+
+window.addEventListener('resize', onResize);
+onResize();
+requestAnimationFrame(render);
+        </script>
+      </div>
+
+
+    </main>
+
+<footer class="footer">
+  <div class="content-inner inner">
+    <section class="footer__sns">
+      <dl>
+        <dt>株式会社リクルート 公式SNS</dt>
+        <dd>
+          <ul>
+            <li class="footer__sns-fb"><a href="https://www.facebook.com/recruit.jp" target="_blank"><img src="/assets/img/common/icon_fb.svg" alt="Facebook"></a></li>
+            <li class="footer__sns-tw"><a href="https://twitter.com/Recruit_PR" target="_blank"><img src="/assets/img/common/icon_tw.svg" alt="Twitter"></a></li>
+            <li class="footer__sns-yt"><a href="https://www.youtube.com/user/recruitholdings" target="_blank"><img src="/assets/img/common/icon_yt.svg" alt="YouTube"></a></li>
+            <li class="footer__sns-ig"><a href="https://www.instagram.com/recruit___official/" target="_blank"><img src="/assets/img/common/icon_ig.svg" alt="Instagram"></a></li>
+          </ul>
+        </dd>
+      </dl>
+    </section>
+    <section class="footer__utilities">
+      <ul>
+        <li><a href="/sitemap/">サイトマップ</a></li>
+        <li><a href="/termsofuse/">免責事項・ご利用条件</a></li>
+        <li><a href="/license-epb/">事業許可内容について</a></li>
+        <li><a href="https://cdn.p.recruit.co.jp/terms/cmn-t-1001/index.html?p=pp035" target="_blank">プライバシーポリシー</a></li>
+        <li><a href="/privacy/">プライバシーセンター</a></li>
+        <li><a href="/acse/">アクセシビリティの対応について</a></li>
+        <li><a href="/rss/">RSSについて</a></li>
+      </ul>
+    </section>
+    <section class="footer__group">
+      <dl class="footer__group-list">
+        <dt>リクルートホールディングス</dt>
+        <dd>
+          <dl class="footer__group-child-list">
+            <dt>リクルート</dt>
+            <dd>
+              <ul>
+                <li><a href="https://www.recruit-ms.co.jp/" target="_blank">リクルートマネージメントソリューションズ</a></li>
+                <li><a href="https://www.rgf-hr.com/" target="_blank">RGF International Recruitment</a></li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="footer__group-child-list">
+            <dt>RGF OHR</dt>
+            <dd>
+              <ul>
+                <li><a href="https://jp.indeed.com/" target="_blank">Indeed</a></li>
+                <li><a href="https://www.glassdoor.com/" target="_blank">Glassdoor</a></li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="footer__group-child-list">
+            <dt>RGF Staffing</dt>
+            <dd>
+              <ul class="footer__group-flex-list">
+                <li><a href="https://csicompanies.com/" target="_blank">CSI Companies</a></li>
+                <li><a href="https://www.staffmarkgroup.com/" target="_blank">Staffmark Group</a></li>
+                <li><a href="https://www.advantageresourcing.co.uk/" target="_blank">Advantage Resourcing UK</a></li>
+                <li><a href="https://www.rgfstaffing.be/" target="_blank">RGF Staffing Belgium NV</a></li>
+                <li><a href="https://www.startpeople.fr/" target="_blank">RGF Staffing France SAS</a></li>
+                <li><a href="https://www.unique-personal.de/" target="_blank">USG People Germany </a></li>
+                <li><a href="https://www.usgpeople.nl/" target="_blank">USG People Holdings</a></li>
+                <li><a href="https://www.chandlermacleod.com/" target="_blank">Chandler Macleod</a></li>
+                <li><a href="https://www.staffservice.co.jp/?vos=gwegpgsriction001" target="_blank">スタッフサービス</a></li>
+                <li><a href="https://www.r-staffing.co.jp/" target="_blank">リクルートスタッフィング</a></li>
+              </ul>
+            </dd>
+          </dl>
+        </dd>
+      </dl>
+    </section>
+    <p class="footer__copyright"><small>(c) Recruit Co., Ltd.</small></p>
+    <p class="footer__pagetop"><span class="js-pagetop">to top</span></p>
+  </div>
+</footer>
+
+
+
+
+<script src="/assets/js/jquery-3.4.1.min.js" defer></script>
+
+<!-- media-archive -->
+<script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js" defer></script>
+<!-- end -->
+
+<!-- youtube api -->
+<script src="//www.youtube.com/iframe_api" defer></script>
+<!-- end -->
+
+<script src="/assets/js/bundle.js" defer></script>
+
+
+
+  </body>
+</html>
